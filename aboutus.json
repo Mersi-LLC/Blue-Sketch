@@ -19,6 +19,15 @@
       "isActive": true,
       "title": null
     },
+        {
+      "modder_username": "Mersi-LLC",
+      "modder_description": "Main modder",
+      "modder_img": "https://avatars.githubusercontent.com/u/109465544",
+      "isTitled": false,
+      "isMainModder": true,
+      "isActive": true,
+      "title": null
+    },
     {
       "modder_username": "Elfilibusterismo",
       "modder_description": "Main modder",
